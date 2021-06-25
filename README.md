@@ -1,6 +1,6 @@
 # ORA_final - SeqGAN for couplet generation
 
-In this article, we addressed the text summarization problem using SeqGAN. We slightly change the training process and policy gradient loss function to improve the quality of generated sentence. Follwing sections include the motivation of these project, the methodology of this GAN-based approach, the experiment result and the conclusion.
+In this article, we addressed the text summarization problem using [SeqGAN](https://arxiv.org/abs/1609.05473). We slightly change the training process and policy gradient loss function to improve the quality of generated sentence. Follwing sections include the motivation of these project, the methodology of this GAN-based approach, the experiment result and the conclusion.
 
 **Keywords:** Natural Language Processing, Sequence-to-Sequence tasks, Monte Carlo, Reinforcement Learning, Generative Adversarial Network
 
